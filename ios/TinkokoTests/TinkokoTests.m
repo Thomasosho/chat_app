@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface rnchatv2pwmTests : XCTestCase
+@interface TinkokoTests : XCTestCase
 
 @end
 
-@implementation rnchatv2pwmTests
+@implementation TinkokoTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL(^)(UIView *view))test
 {

@@ -12,13 +12,14 @@ import {initializeApp} from 'firebase/app';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: 'AIzaSyArx1gF0aFnyOExqLtdVGwZK03-3TflPQY',
-  authDomain: 'chatappv2-10ec3.firebaseapp.com',
-  databaseURL: 'https://chatappv2-10ec3-default-rtdb.firebaseio.com',
-  projectId: 'chatappv2-10ec3',
-  storageBucket: 'chatappv2-10ec3.appspot.com',
-  messagingSenderId: '151530621910',
-  appId: '1:151530621910:web:1c30bb9319058e0f187277',
+  apiKey: 'AIzaSyBHdS0Rxcs_lYJ9wjJ29PSPb9xWfkn2TMA',
+  authDomain: 'tinkoko-mobile.firebaseapp.com',
+  databaseURL: 'https://tinkoko-mobile-default-rtdb.firebaseio.com',
+  projectId: 'tinkoko-mobile',
+  storageBucket: 'tinkoko-mobile.appspot.com',
+  messagingSenderId: '522471813018',
+  appId: '1:522471813018:web:6f8b0c5056a5b20bb2d423',
+  measurementId: "G-CFBGT2092S",
 };
 
 // Initialize Firebase
